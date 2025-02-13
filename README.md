@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction Using Supervised Machine Learning + EDA
 
 ## Overview
 Cardiovascular diseases (CVDs) are a major global health concern, causing millions of deaths each year. Early detection can help reduce risks and improve treatment outcomes. This project develops machine learning models to predict heart disease based on key medical indicators.
