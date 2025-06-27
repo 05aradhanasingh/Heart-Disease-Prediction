@@ -31,7 +31,7 @@ The dataset is compiled from five independent heart disease datasets available f
 | ST_Slope      | Slope of peak exercise ST segment (Up, Flat, Down) |
 | HeartDisease  | Target variable (1: Heart disease, 0: Normal) |
 
-## Machine Learning Models Used
+## Supervised Machine Learning Models Used
 - Logistic Regression  
 - Decision Tree Classifier  
 - Random Forest Classifier  
